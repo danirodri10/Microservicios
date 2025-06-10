@@ -1,3 +1,3 @@
-Se han implementado los 5 módulos: Eureka, Gateway, Comentarios, Reservas y Usuarios.
+Project based in 3 main Microservices (Usuarios, Reservas y Comentarios), using API Rest and GraphQL.
 
-Se opta a la nota máxima.
+Using 2 more optionals Microservices (Gateway and Eurekaserver) for make the project more secure and comfortable for the user.
