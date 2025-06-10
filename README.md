@@ -1,2 +1,2 @@
 # Microservicios
-Proyecto de Microservicios con API Rest, GraphQL, EurekaServer y Gateway
+Microservices project using API Rest, GraphQL, Gateway and Eurekaserver.
